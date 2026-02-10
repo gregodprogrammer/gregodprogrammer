@@ -65,7 +65,7 @@ Each project includes documentation explaining what was done and what was learne
 
 ## Training and Learning
 
-- DevOps Micro Internship (DMI – Cohort 2), January 2006 – Present  
+- DevOps Micro Internship (DMI – Cohort 2), Current 
   Hands-on labs and peer collaboration  
   Champion of the Week (Git and GitHub)
 
