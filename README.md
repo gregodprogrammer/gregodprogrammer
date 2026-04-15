@@ -1,95 +1,89 @@
 # ODI CHIBUZOR GREG
 
-Linux systems • DevOps fundamentals • Open-source learning
-
-
-
-## About
-
-I am building practical skills in Linux systems and DevOps with a strong interest
-in support engineering and open-source technologies.
-
-My IT learning journey started over three years ago. I focus on hands-on labs,
-manual configuration, and documentation to understand how systems behave in
-real environments.
-
-
-
-## Current Focus
-
-- Ubuntu Linux administration (WSL and virtual machines)
-- Git and GitHub workflows
-- Virtualization using VirtualBox
-- DevOps and cloud fundamentals
-- Basic networking and troubleshooting
-- Security fundamentals
-
-
-
-## Technical Skills
-
-**Operating Systems**
-- Ubuntu Linux (WSL, VirtualBox)
-
-**Version Control**
-- Git (init, commit, branch, merge, push)
-- GitHub (repository management and documentation)
-
-**Virtualization and Cloud**
-- VirtualBox
-- Cloud and DevOps concepts (foundational)
-
-**Systems and Networking**
-- Basic system monitoring
-- Log inspection and troubleshooting
-
-**Security**
-- Google Cybersecurity Specialization
-- User access and permissions awareness
+**Full-Stack Engineer | Rapid Product Execution | DevOps | Next.js · React · PostgreSQL**
 
 ---
 
-## Selected Projects
+## 🚀 About Me
 
-The pinned repositories on this profile represent hands-on learning projects
-focused on Linux systems, version control, and DevOps fundamentals.
+I build and ship full-stack applications with a strong focus on speed, structure, and real-world functionality.
 
-They include:
-- Manual Ubuntu setup and system configuration
-- Git practice labs covering branching and merging
-- DevOps learning projects completed during training and self-study
+Recently delivered and deployed two production-ready platforms within 24 hours, demonstrating the ability to move from idea → working system fast.
 
-Each project includes documentation explaining what was done and what was learned.
+My background in operations brings a strong execution mindset into engineering — clear requirements, fast delivery, and systems that work.
 
 ---
 
-## Training and Learning
+## ⚡ What I Do
 
-- DevOps Micro Internship (DMI – Cohort 2), Current 
-  Hands-on labs and peer collaboration  
-  Champion of the Week (Git and GitHub)
+- Build full-stack applications (frontend + backend)
+- Translate product ideas into working systems quickly
+- Design booking systems, dashboards, and data-driven platforms
+- Integrate payments and real-time workflows
+- Automate deployments and manage CI/CD pipelines with DevOps tooling
+- Focus on clean structure and scalable architecture
 
-- AWS DevOps Engineer Industrial Training, February 2025 – October 2025
+---
 
-- Network Multicloud Associate (Aviatrix)
+## 🧠 Tech Stack
 
-- Google Cybersecurity Specialization
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | Next.js 14 · React · Tailwind CSS |
+| **Backend** | PostgreSQL · REST APIs · InsForge |
+| **Languages** | JavaScript (ES6+) · Python |
+| **DevOps** | Git · GitHub · Vercel · CI/CD · Linux · WSL Ubuntu · Docker · CloudFormation |
+| **AI Workflow** | Claude Code · Agentic AI DevOps |
+| **Payments** | Paystack |
 
+---
 
+## 🔥 Featured Projects
 
-## How I Work
+### 🚗 Pradini Clone — Luxury Vehicle Marketplace
+🔗 [pradini-clone-nine.vercel.app](https://pradini-clone-nine.vercel.app) &nbsp;|&nbsp; 📂 [github.com/gregodprogrammer/pradini-clone](https://github.com/gregodprogrammer/pradini-clone)
 
-I prefer typing commands manually when learning so I can understand system behavior
-and failure modes.
+- Vehicle listings with filtering
+- Booking system with dynamic pricing
+- Driver selection and assignment
+- UUID-based booking confirmation
+- Paystack payment integration
+- Admin dashboard
+- Live PostgreSQL database
 
-I document steps and observations, especially when something does not work as
-expected. Troubleshooting is part of my learning process.
+### 🏢 FleetDesk — Corporate Transport SaaS
+🔗 [fleetdesk-three.vercel.app](https://fleetdesk-three.vercel.app) &nbsp;|&nbsp; 📂 [github.com/gregodprogrammer/fleetdesk](https://github.com/gregodprogrammer/fleetdesk)
 
-I focus on building strong fundamentals and improving through regular practice.
+- Fleet management system
+- Trip booking and pricing engine
+- Company dashboard with real-time data
+- Admin controls and reporting
+- Built for scalability and structured growth
 
+---
 
+## ⚡ Execution Style
 
-## Contact
+- Move fast from spec to production
+- Build complete systems, not partial features
+- Focus on usability, structure, and real-world use
+- Leverage AI-assisted DevOps workflows to ship faster
+- Iterate quickly and improve continuously
 
-- LinkedIn: https://www.linkedin.com/in/gregodi
+---
+
+## 📚 Background
+
+- 20+ years in operations and project execution
+- Strong foundation in systems thinking and delivery discipline
+- Transitioned into software engineering with focus on building real products
+- Certifications: Full-Stack (Mimo) · Agentic AI DevOps with Claude Code (Udemy) · DevOps Industrial (IBT Learning)
+
+---
+
+## 📫 Contact
+
+🔗 LinkedIn: [linkedin.com/in/gregodi](https://www.linkedin.com/in/gregodi)  
+📧 Email: greg.ethel@gmail.com  
+📂 GitHub: [github.com/gregodprogrammer](https://github.com/gregodprogrammer)
 
