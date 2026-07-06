@@ -1,112 +1,125 @@
 # 👋 Hi, I'm Greg Odi
 
-## DevOps Engineer | Full-Stack Engineer | Cloud Automation | AI-Assisted Development
+# DevOps Engineer | Full-Stack Engineer | Cloud Automation | AI-Assisted Development
 
-I build production-ready applications, automate cloud infrastructure, and design modern DevOps workflows using Infrastructure as Code (IaC), CI/CD, containerization, and cloud-native technologies.
+I build production-ready applications, automate cloud infrastructure, and design modern DevOps workflows using Infrastructure as Code (IaC), CI/CD, cloud-native technologies, and AI-assisted engineering.
 
-Recently designed, built, and deployed two production-ready platforms within 24 hours, demonstrating the ability to rapidly transform ideas into working systems while maintaining clean architecture and engineering best practices.
+Recently designed, built, and deployed production-ready platforms while continuously expanding my expertise in cloud engineering, automation, and platform reliability.
 
-With over 20 years of experience in operations and project execution, I bring a systems-thinking mindset into software engineering—focusing on automation, reliability, scalability, and continuous improvement.
+With over 20 years of experience in operations and project execution, I bring a systems-thinking mindset to software engineering—focusing on automation, reliability, scalability, and continuous improvement.
 
 ---
 
-# 🚀 What I Do
+# 🚀 What I Build
 
-- Design and build full-stack web applications
-- Automate cloud infrastructure with Infrastructure as Code
-- Build CI/CD pipelines using GitHub Actions and Azure DevOps
-- Configure and manage servers using Ansible
-- Deploy containerized applications using Docker
-- Build cloud-native solutions on Microsoft Azure
-- Create technical documentation and developer resources
-- Accelerate software delivery using AI-assisted development workflows
+- ☁️ Cloud Infrastructure on Microsoft Azure
+- ⚙️ CI/CD Pipelines with GitHub Actions & Azure DevOps
+- 🏗 Infrastructure as Code using Terraform
+- 🔧 Configuration Management using Ansible
+- 🐳 Containerized Applications with Docker
+- 💻 Full-Stack Applications with Next.js, React & PostgreSQL
+- 📚 Technical Documentation & Learning Resources
+- 🤖 AI-Assisted Software Engineering Workflows
 
 ---
 
 # 🛠 Technical Stack
 
 | Category | Technologies |
-|----------|--------------|
-| ☁️ **Cloud** | Microsoft Azure · Azure DevOps · Vercel |
-| ⚙️ **DevOps** | Git · GitHub · GitHub Actions · Docker · Terraform · Ansible · Linux · WSL Ubuntu |
-| 🏗 **Infrastructure as Code** | Terraform · Ansible |
-| 💻 **Backend** | Node.js · PostgreSQL · REST APIs |
-| 🎨 **Frontend** | Next.js · React · TypeScript · Tailwind CSS |
-| 🐍 **Languages** | JavaScript (ES6+) · Python |
-| 🤖 **AI Engineering** | Claude Code · Agentic AI · AI-Assisted Software Development |
-| 🔗 **Integrations** | REST APIs · Nomba Developer Framework |
+|-----------|--------------|
+| ☁️ Cloud | Microsoft Azure • Azure DevOps • Vercel |
+| ⚙️ DevOps | Git • GitHub • GitHub Actions • Docker • Terraform • Ansible • Linux • WSL Ubuntu |
+| 🏗 Infrastructure as Code | Terraform • Ansible |
+| ☸️ Container & Orchestration | Docker • Kubernetes (Learning Labs) |
+| 💻 Backend | Node.js • PostgreSQL • REST APIs |
+| 🎨 Frontend | Next.js • React • TypeScript • Tailwind CSS |
+| 🐍 Languages | JavaScript • Python |
+| 🤖 AI Engineering | Claude Code • Agentic AI • AI-Assisted Software Development |
+| 🔗 Integrations | REST APIs • Nomba Developer Framework |
 
 ---
 
-# ⭐ Featured Projects
+# ⭐ Featured Portfolio
 
-## 🚍 FleetDesk – Corporate Fleet Management Platform
+## 🚍 FleetDesk
 
-🔗 **Repository:** https://github.com/gregodprogrammer/fleetdesk
+Enterprise Fleet Management Platform
 
-A scalable SaaS platform designed for fleet and transport management.
+**Highlights**
 
-### Highlights
-
-- Fleet operations management
+- Fleet operations
 - Trip booking workflows
 - Pricing engine
+- PostgreSQL
 - Administrative dashboard
-- PostgreSQL database
-- Production deployment
-- Scalable architecture
+- Scalable SaaS architecture
+
+🔗 Repository
+
+https://github.com/gregodprogrammer/fleetdesk
 
 ---
 
-## 💳 KeoteraPay – Digital Payment Prototype
+## 💳 KeoteraPay
 
-🔗 **Repository:** https://github.com/gregodprogrammer/keoterapay
+Digital Payment Prototype built during a hackathon using the Nomba Developer Framework.
 
-A hackathon project built using the Nomba Developer Framework to explore digital payment workflows and modern API integration.
-
-### Highlights
+**Highlights**
 
 - Payment workflow prototype
 - REST API integration
-- Rapid product development
 - Modern TypeScript architecture
+- Rapid product development
+
+🔗 Repository
+
+https://github.com/gregodprogrammer/keoterapay
 
 ---
 
-## 🚗 Pradini Clone – Luxury Vehicle Marketplace
+## 🚗 Pradini Clone
 
-🔗 **Repository:** https://github.com/gregodprogrammer/pradini-clone
+Luxury Vehicle Marketplace demonstrating full-stack application architecture.
 
-A full-stack vehicle marketplace showcasing booking workflows and production-ready application architecture.
+> Repository available for review. Backend services are currently unavailable due to third-party infrastructure limitations.
 
-> **Note:** The repository remains available for review. Live backend services are currently unavailable due to third-party infrastructure limitations.
+**Highlights**
+
+- Vehicle booking workflow
+- Dynamic pricing
+- PostgreSQL
+- Admin dashboard
+
+🔗 Repository
+
+https://github.com/gregodprogrammer/pradini-clone
+
+---
+
+# ⚙️ DevOps Engineering Portfolio
+
+Hands-on DevOps projects covering modern cloud engineering and automation.
 
 ### Highlights
 
-- Vehicle listings
-- Booking engine
-- Dynamic pricing
-- Driver assignment
-- PostgreSQL database
-- Admin dashboard
-
----
-
-# ⚙️ DevOps Portfolio
-
-Hands-on DevOps projects demonstrating cloud engineering and infrastructure automation.
-
-### Projects Include
-
-- Azure Virtual Machine deployments with Terraform
-- AWS Virtual Machine deployments with Terraform
-- GitHub Actions CI/CD pipelines
-- Azure DevOps pipelines
-- Docker containerization
-- Kubernetes learning labs
-- Ansible automation
-- Linux administration
+- Azure Virtual Machine Deployments
+- Azure DevOps Pipelines
+- GitHub Actions CI/CD
+- Terraform Infrastructure
+- Docker
+- Kubernetes Labs
+- Linux Administration
+- Ansible Automation
 - Infrastructure as Code
+
+### Featured Repositories
+
+- DevOps Assignments
+- Terraform React Azure
+- PetClinic Platform
+- Ansible Static Web
+- Kubernetes Labs
+- Terraform Azure VM
 
 ---
 
@@ -114,17 +127,15 @@ Hands-on DevOps projects demonstrating cloud engineering and infrastructure auto
 
 ## Git & GitHub for DevOps Learning Portal
 
-🌐 **Live Site**
+Live Documentation Website
 
 https://gregodprogrammer.github.io/github-beginners-guide/
 
-A comprehensive documentation website created for developers learning Git, GitHub, and DevOps workflows.
-
-### Covers
+Topics Covered
 
 - Git Fundamentals
 - GitHub Workflows
-- Branching Strategies
+- Branching Strategy
 - Pull Requests
 - GitHub Pages
 - CI/CD Concepts
@@ -135,10 +146,10 @@ A comprehensive documentation website created for developers learning Git, GitHu
 # 📜 Certifications
 
 - Google Cybersecurity Professional Certificate
+- Oracle Certified Associate (Database Administration)
 - Full-Stack Development (Mimo)
 - DevOps Industrial Training (IBT Learning)
 - Agentic AI DevOps with Claude Code (Udemy)
-- Oracle Certified Associate (Database Administration)
 
 ---
 
@@ -155,34 +166,34 @@ A comprehensive documentation website created for developers learning Git, GitHu
 
 # 🎯 Engineering Principles
 
-- Build reliable, production-ready systems
-- Automate repetitive tasks
-- Embrace Infrastructure as Code
-- Write maintainable and scalable solutions
-- Learn continuously and share knowledge
-- Use AI responsibly to improve developer productivity
+- Build production-ready systems
+- Automate repetitive work
+- Infrastructure as Code first
+- Continuous learning
+- Reliable and maintainable solutions
+- AI-assisted engineering for developer productivity
 
 ---
 
 # 📈 GitHub Highlights
 
-✔️ Full-Stack Applications
+✔️ Full-Stack Engineering
 
 ✔️ Cloud Deployments
 
 ✔️ Infrastructure as Code
 
-✔️ CI/CD Automation
+✔️ Azure DevOps
 
-✔️ Linux Administration
+✔️ GitHub Actions
 
 ✔️ Docker
-
-✔️ Azure
 
 ✔️ Terraform
 
 ✔️ Ansible
+
+✔️ Linux
 
 ✔️ Kubernetes Labs
 
@@ -190,16 +201,16 @@ A comprehensive documentation website created for developers learning Git, GitHu
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
-💼 **LinkedIn**
+💼 LinkedIn
 
 https://linkedin.com/in/gregodi
 
-📧 **Email**
+📧 Email
 
 greg.ethel@gmail.com
 
-💻 **GitHub**
+💻 GitHub
 
 https://github.com/gregodprogrammer
